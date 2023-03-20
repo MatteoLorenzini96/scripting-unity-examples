@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 625defc09060a084bbef51c0f91fb011, type: 3}
+  m_Name: 36-Clefable
+  m_EditorClassIdentifier: 
+  num: 36
+  pokeName: Clefable
+  pokeType1: 4
+  pokeType2: 12
+  bodyText: "\xC8 un Pok\xE9mon molto duttile dato che riesce ad imparare mosse di
+    quasi tutti i generi, come Bora, Tuono, Psichico, ecc., tuttavia il pericolo maggiore
+    \xE8 il suo aspetto che pu\xF2 ipnotizzare il Pok\xE9mon avversario e poi approfittare
+    della sua distrazione per colpirlo di sorpresa. "
+  img: {fileID: 21300000, guid: 0eac6491257a61a48ac1ca7181eb69fa, type: 3}
